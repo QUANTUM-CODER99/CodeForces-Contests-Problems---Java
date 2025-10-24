@@ -7,7 +7,7 @@ Date -> 21/06/2025 , Content -> CodeForces (Problems : Solutions + Approach) !!!
 
 ## 👨‍🎓 About Me
 
-* Name: Aishwary
+* Name: QUANTUM-CODER99
 * College: National Institute of Technology, Delhi (NIT Delhi)
 * Semester: 1st Semester
 * Profile: ->
